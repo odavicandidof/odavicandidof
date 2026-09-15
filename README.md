@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Davi 👋
 
-<!--
-**odavicandidof/odavicandidof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer building my path in software engineering, with a background in B2B sales and Go-To-Market.
 
-Here are some ideas to get you started:
+Currently focused on learning and building projects with modern web technologies, APIs, databases and cloud tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 💻 Full Stack Development
+- 🚀 Go-To-Market & B2B background
+- 📚 Currently learning and building projects
+- 🧠 Interested in software, automation and AI
+- 🌎 Based in Brazil
+
+## What I'm learning
+
+- JavaScript / TypeScript
+- React
+- Node.js
+- APIs & REST
+- SQL & databases
+- Git & GitHub
+- Docker
+- Cloud & deployment
+
+## Projects
+
+### 🚧 Currently building
+
+I'm using GitHub to document my learning journey and build practical projects.
+
+Check out my repositories below.
+
+## Tech Stack
+
+### Languages
+JavaScript · TypeScript · Go · SQL
+
+### Frontend
+React · HTML · CSS
+
+### Backend
+Node.js · REST APIs
+
+### Tools
+Git · GitHub · VS Code · Docker
+
+## Connect with me
+
+- LinkedIn: [Meu LinkedIn](SEU_LINK)
+- Email: SEU_EMAIL
