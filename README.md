@@ -47,5 +47,5 @@ Git · GitHub · VS Code · Docker
 
 ## Connect with me
 
-- LinkedIn: [Meu LinkedIn](SEU_LINK)
-- Email: SEU_EMAIL
+- LinkedIn: https://www.linkedin.com/in/davi-c%C3%A2ndido-3b47722ab/
+- Email: davicfrancadev@gmail.com
